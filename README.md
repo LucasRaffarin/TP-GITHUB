@@ -1,19 +1,32 @@
-# Rendu de <NOM Prénom>
+# Rendu de Raffarin Lucas
+
 
 Une capture par étape, dans l'ordre. Terminal entier non rogné, invite visible.
 Afficher l'historique en graphe quand c'est pertinent.
 
+
 ## Niveau 1
 1. Configuration Git
-(capture)
+``` La configuration de git avait été déjà faite avant ```
+![Configuration Git](<capture/Capture d'écran 2026-09-28 144956.png>)
+
 2. Branche de travail
-(capture)
+![Branche de travail](<capture/Capture d'écran 2026-09-28 141645.png>)
+
 3. Historique des commits
-(capture)
+![Historique des comits](<capture/Capture d'écran 2026-09-28 142343.png>)
+![Historique des comits](<capture/Capture d'écran 2026-09-28 144239.png>)
+
 4. Pull Request
-(capture)
+![(capture)](<capture/Capture d'écran 2026-09-28 143336.png>)
+![alt text](<capture/Capture d'écran 2026-09-28 143400.png>)
+
 5. Revue croisée
-(capture)
+![alt text](<capture/Capture d'écran 2026-09-28 143410.png>)
+
+
+
+
 
 ## Niveau 2
 6. Secret retiré du suivi
