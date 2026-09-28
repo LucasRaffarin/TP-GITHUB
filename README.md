@@ -11,9 +11,10 @@ Afficher l'historique en graphe quand c'est pertinent.
 ![Configuration Git](<capture/Capture d'écran 2026-09-28 144956.png>)
 
 2. Branche de travail
-![Historique des comits](<capture/Capture d'écran 2026-09-28 141645.png>)
+![Branche de travail](<capture/Capture d'écran 2026-09-28 141645.png>)
 
 3. Historique des commits
+![Historique des comits](<capture/Capture d'écran 2026-09-28 142343.png>)
 ![Historique des comits](<capture/Capture d'écran 2026-09-28 144239.png>)
 
 4. Pull Request
